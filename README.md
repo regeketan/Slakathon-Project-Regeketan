@@ -19,4 +19,4 @@ Using historical data of weather to train a machine learning model, we can predi
 ## The architecture
 ![](Arch.PNG)
 ## Project roadmap
-- The model should be deployed on the portal at the backend along with the dataset for the predictions.
+- The model can be deployed on the portal at the backend along with the dataset for the predictions.
