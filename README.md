@@ -8,7 +8,6 @@
 	- [How can technology help?](#How-can-technology-help)
 	- [The idea](#The-idea)
 - [The architecture](#The-architecture)
-- [Long description](#Long-description)
 - [Project roadmap](#Project-roadmap)
 ## Short description
 ### Problem Identification
