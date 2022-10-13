@@ -18,7 +18,7 @@ These predicted weather conditions can help government and local authorities to 
 ### The idea
 Using historical data of weather to train a machine learning model, we can predict weather conditions for certain period of time more accurately in the future and at same time this data will be used for the bettter growth of the agriculture sector to plan various ameneties.
 ## The architecture
-
+![](Architecture.PNG)
 ## Project roadmap
 - Analyse current weather trends.
 - Prediction of Weather with the help of the machine learning models.
