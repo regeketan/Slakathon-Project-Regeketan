@@ -4,16 +4,16 @@
 - [Project Name](#Slakathon-Project-Weather-Prediction-&-Analysis)
 - [Contents](#Contents)
 - [Short description](#Short-description)
-	- [What's the problem?](#What's-the-problem?)
-	- [How can technology help?](#How-can-technology-help?)
+	- [Problem Identification](#Problem-Identification)
+	- [How can technology help?](#How-can-technology-help)
 	- [The idea](#The-idea)
 - [The architecture](#The-architecture)
 - [Long description](#Long-description)
 - [Project roadmap](#Project-roadmap)
 ## Short description
-### What's the problem?
+### Problem Identification
 In todays era uneven weather conditions had messed up the arrangements made by the local organisations and the national policies. These unpredictable weather conditions  not only harm the lives of people but also hampers a country's path of development too. Predicting weather condition with the help of various criteria such as humidity,pressure & temprature can help more in todays world.
-### How can technology help?
+### How can technology help
 These predicted weather conditions can help government and local authorities to take necessary actions to prevent casualities and harm. These techonologies can also help farmers to decide cropping pattern too.
 ### The idea
 Using historical data to train a machine learning model, we can predict weather conditions for certain period of time more accurately in the future.
